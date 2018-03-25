@@ -14,4 +14,9 @@ Spring Boot Actuator- Gives us insight of application into what’s going on ins
 
 Note- in Shot, Spring Boot Starter reduces build’s dependencies and Spring Boot AutoConfigurator reduces the Spring Configuration.
 
+A Spring Boot starter consists of two modules:
+>>auto configuration which is the module doing the heavy lifting and setting up your module
+>>starter the starter module which wraps your lib, autoconfiguration and all dependencies in one single dependency
+
+
  
