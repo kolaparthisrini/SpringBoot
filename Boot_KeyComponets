@@ -1,0 +1,12 @@
+
+Spring Boot Starters- We just tell Spring Boot what kind of functionality we need; now it is responsibility of Spring Boot so that
+it will ensure that the libraries needed are added to the build.
+
+Spring Boot AutoConfigurator- Spring Boot can automatically provide configuration for application functionality common to many 
+Spring applications.
+
+Spring Boot CLI- This optional feature of Spring Boot lets you write complete applications with just application code, but no
+need for a traditional project build.
+
+Spring Boot Actuator- Gives us insight of application into what’s going on inside of a running Spring Boot application.
+ 
