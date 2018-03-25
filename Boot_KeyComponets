@@ -9,4 +9,9 @@ Spring Boot CLI- This optional feature of Spring Boot lets you write complete ap
 need for a traditional project build.
 
 Spring Boot Actuator- Gives us insight of application into what’s going on inside of a running Spring Boot application.
+
+@SpringBootApplication = @Configuration + @ComponentScan + @EnableAutoConfiration.
+
+Note- in Shot, Spring Boot Starter reduces build’s dependencies and Spring Boot AutoConfigurator reduces the Spring Configuration.
+
  
