@@ -1,0 +1,27 @@
+Bootstrapping Project Creation with Spring Initialzr 
+
+Spring Boot IDE Support: Spring Initialzr, Spring Boot IDE Support: Property Auto Completion 
+
+Spring Boot IDE Support: Overriding App Properties at Runtime,Automatic and Fast 
+App Restarts with Spring Boot Devtools 
+Introduction and Review of Auto Configuration
+
+Generating an Auto Configuration Report
+
+Excluding Unnecessary or Misconfigured Auto Configurations
+
+Reducing Code with Custom Auto Configurations 
+
+Reconfiguring and Fine-tuning Auto Configurations
+Using Properties and YAML files
+
+Hands on Tuning of the Demo Application's Auto Configuration
+@ConditionalOn* Annotations in Depth 
+
+RESTful Web App
+Creating Spring Boot Web Service -REST
+
+Building a RESTful Web Service with Spring Boot Actuator
+Writing Junit test cases for soap and restful web services
+
+Enabling Cross Origin Requests for a RESTful Web Service,Creating API Documentation with Restdocs and TestRestTemplate
